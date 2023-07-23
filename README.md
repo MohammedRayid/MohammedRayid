@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MohammedRayid
+- 👀 I’m interested in React and NodeJs
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on any web development based projects
+- 📫 Reach out to me on linkedIn: https://www.linkedin.com/in/mohammed-rayid-362906223/
