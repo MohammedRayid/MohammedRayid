@@ -15,7 +15,7 @@ From local LLM setups to web-integrated RAG systems — I love designing tools t
 
 **Retrieval-Augmented Generation (RAG)** system for exploring and querying the entire **N8N documentation** through a beautiful chat interface powered by **local AI**.
 
-![Chat Interface](https://via.placeholder.com/800x400/121212/ff6600?text=N8N+RAG+Chat+Interface)
+![Chat Interface](/n8nRagChat.png)
 
 ### 🌟 Features
 - **Dark Mode Interface** with orange accents  
