@@ -57,8 +57,12 @@ This project combines **AI-powered responses**, **speech synthesis**, and **enga
 ### 🧵 Twitter Trends Posting Bot  
 Fetches trending news via the **Reddit API**, filters the top 5, and lets an **AI agent** (powered by a local LLM through LM Studio) turn them into short, hashtag-optimized tweets — then automatically posts them on Twitter.  
 
-### 🐱 AI Image Email Bot  
+### 🐱 AI Cat Content Generator 
 An **AI agent** generates a fun creative prompt (random cat breed + activity + setting), sends it to a **Hugging Face image generation API**, and emails the generated image + caption daily — just for a smile.  
+
+### 📚 WhatsApp Study Buddy  
+An **AI-powered study assistant** built with **N8N** and integrated with **OpenAI or local LLMs**.  
+It listens for incoming WhatsApp messages, passes them to an AI agent with a friendly *Study Buddy* prompt, and replies instantly with clear explanations, real-world examples, and helpful analogies — turning your chats into interactive tutoring sessions available anytime.
 
 ---
 
