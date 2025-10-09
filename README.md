@@ -15,7 +15,7 @@ From local LLM setups to web-integrated RAG systems — I love designing tools t
 
 **Retrieval-Augmented Generation (RAG)** system for exploring and querying the entire **N8N documentation** through a beautiful chat interface powered by **local AI**.
 
-![Chat Interface](/n8nRagChat.png)
+![Chat Interface](assets/n8n-rag-chat.png)
 
 ### 🌟 Features
 - **Dark Mode Interface** with orange accents  
@@ -27,49 +27,45 @@ From local LLM setups to web-integrated RAG systems — I love designing tools t
 
 ---
 
-## 💡 Other Projects
+## 💼 JoblyFit  
 
-### 🔹 N8N MCP Copilot  
-AI-powered copilot for N8N workflows using Claude and the **Model Context Protocol (MCP)**.  
-- Workflow listing, analysis, and natural language interaction  
-- Ready framework for creating or modifying workflows via chat
+An **AI-driven job matching platform** that analyzes resumes and job postings to recommend best-fit opportunities and optimize candidate profiles.  
+Built with a **focus on precision**, **readability**, and **intuitive UI**, JoblyFit helps users align their professional strengths with the right career paths.
 
 ---
 
-### 🔹 🤖 AI Resume Optimizer – ATS Friendly  
-An AI-powered tool that enhances resumes for specific job descriptions and exports **ATS-compliant PDFs** with professional formatting.
+## 🧩 N8N MCP Copilot  
+
+AI-powered copilot for **N8N workflows**, built using **Claude** and the **Model Context Protocol (MCP)**.  
+It brings a conversational layer to N8N, allowing you to:  
+- Browse, analyze, and understand workflows  
+- Chat naturally about automation logic  
+- Extend or modify workflows intelligently  
+- Serve as a framework for **context-aware automation assistance**
 
 ---
 
-### 🔹 💬 OpenRouter Chat  
-A sleek, responsive web chat interface for interacting with **AI models** through the **OpenRouter API**, built with Flask & vanilla JavaScript.
+## 🎙️ SynthMind  
+
+A beautiful, interactive **AI voice assistant web application** with a stunning animated sphere interface.  
+This project combines **AI-powered responses**, **speech synthesis**, and **engaging motion design** to create a truly immersive conversational experience.
 
 ---
 
-### 🔹 🗣️ AI Voice Assistant  
-A captivating **AI voice assistant web app** featuring an **animated sphere UI**, **text-to-speech**, and smooth conversational interaction.
-
----
-
-### 🔹 💼 JoblyFit  
-An **AI-driven job matching platform** that analyzes resumes and job postings to recommend best-fit roles and optimize candidate profiles.
-
----
-
-## ⚙️ N8N Automations Showcase
+## ⚙️ N8N Automations Showcase  
 
 ### 🧵 Twitter Trends Posting Bot  
-Fetches trending news via the Reddit API → filters top 5 → an **AI agent** (powered by local LLM via LM Studio) converts them into concise, hashtag-optimized tweets → auto-posts on Twitter.  
+Fetches trending news via the **Reddit API**, filters the top 5, and lets an **AI agent** (powered by a local LLM through LM Studio) turn them into short, hashtag-optimized tweets — then automatically posts them on Twitter.  
 
 ### 🐱 AI Image Email Bot  
-Uses an **AI agent** to generate a creative prompt (random cat breed + activity + setting) → sends it to a Hugging Face image generation API → creates image + caption → emails the output to me daily.
+An **AI agent** generates a fun creative prompt (random cat breed + activity + setting), sends it to a **Hugging Face image generation API**, and emails the generated image + caption daily — just for a smile.  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack  
 
 **AI & ML:**  
-`Python` • `Sentence Transformers` • `ChromaDB` • `LangChain` • `LM Studio` • `OpenRouter API` • `Claude AI` • `Hugging Face`
+`Python` • `Sentence Transformers` • `ChromaDB` • `LangChain` • `LM Studio` • `Claude AI` • `Hugging Face`
 
 **Web & Backend:**  
 `Flask` • `Node.js` • `Express` • `React` • `JavaScript` • `HTML` • `CSS`
